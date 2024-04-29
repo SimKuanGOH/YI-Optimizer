@@ -8,4 +8,5 @@ This repo demonstrates how YI, Yi Jing's Philosophy-inspired optimizer, can be u
 
 <img width="330" alt="image" src="https://github.com/SimKuanGOH/YI_Optimizer/assets/33505453/6da1df3c-5f5a-436a-b1b5-fb64c81ad6aa">
 
+<img width="330" alt="image" src="https://github.com/SimKuanGOH/YI_Optimizer/assets/33505453/e0e5f2d1-e53c-4160-9e51-228583fff916">
 
