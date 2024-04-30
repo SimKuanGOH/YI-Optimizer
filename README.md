@@ -2,7 +2,7 @@
 
 This repo demonstrates how YI, Yi Jing's Philosophy-inspired optimizer, can be used to optimize CEC2017 benchmarks. The file run_yi.py provides examples. The objective function can be modified for solving any other optimization problems.
 
-Supplementary Figures and Tables:
+Supplementary Figures (1 & 2) and Tables (I, II, & III):
 
 <img width="592" alt="image" src="https://github.com/SimKuanGOH/YI_Optimizer/assets/33505453/49de14e4-cecd-4d42-ac10-2259dc93a215">
 
